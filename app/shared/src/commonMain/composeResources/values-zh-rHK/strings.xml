@@ -185,6 +185,8 @@
     <string name="source_taptap">TapTap</string>
     <string name="source_box7723">7723</string>
     <string name="source_fdroid">F-Droid</string>
+    <string name="source_google_play">Google Play</string>
+    <string name="source_tencent">應用寶</string>
     <string name="fdroid_mirror">F-Droid 鏡像源</string>
     <string name="fdroid_mirror_summary">揀選 F-Droid 應用下載同元數據使用嘅來源</string>
     <string name="fdroid_mirror_nju">南京大學 (NJU)</string>
@@ -321,6 +323,7 @@
     <string name="about_title">關於</string>
     <string name="about_project">項目地址</string>
     <string name="about_open_source_licenses">開放原始碼授權</string>
+    <string name="about_aurora_summary">Google Play 透過 Aurora（極光）提供嘅鏡像 API 匿名存取（auroraoss.com）</string>
 
     <!-- Update history -->
     <string name="update_history">更新記錄</string>
@@ -348,4 +351,13 @@
     <string name="image_saved">已經儲存咗去 Pictures/AppMarket</string>
     <string name="image_save_failed">儲存唔到圖片</string>
     <string name="image_save_unsupported">淨係 Android 先儲存到圖片</string>
+    <string name="check_for_updates">檢查更新</string>
+    <string name="check_for_updates_summary">檢查 GitHub 上有冇新版本發佈</string>
+    <string name="checking_for_updates">檢查緊更新…</string>
+    <string name="already_latest_version">目前已經係最新版本</string>
+    <string name="check_update_failed">檢查更新失敗，請檢查網絡</string>
+    <string name="update_dialog_title">發現新版本 v%1$s</string>
+    <string name="update_download_mirror">加速下載</string>
+    <string name="update_download_official">官方下載</string>
+    <string name="update_later">稍後先</string>
 </resources>
